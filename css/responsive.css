@@ -1,0 +1,815 @@
+@media (min-width: 992px) and (max-width: 1200px){
+    /* banner part */
+    #banner-part .banner-top-img {
+        width: 300px;
+        height: 460px;
+    }
+    #banner-part .banner-heading {
+        font-size: 3rem;
+        margin-bottom: 40px;
+    }
+    #banner-part .wave-1 {
+        height: 120px;
+    }
+    #banner-part .wave-2{
+        height: 60px;
+    }
+    /* app storm */
+    #what-appstorm .heading {
+        margin-bottom: 80px;
+    }
+    #what-appstorm .para {
+        width: auto;
+    }
+    #what-appstorm .image{
+        height: 350px;
+    }
+    /* features part */
+    #features-part .img {
+        height: 460px;
+    }
+    #features-part .img-3 {
+        width: 210px;
+        height: 140px;
+        right: 90px;
+    }
+    #features-part .img-4 {
+        width: 210px;
+        height: 140px;
+    }
+    /* pricing part */
+    #pricing-part .middle .catagory {
+        padding: 40px 0;
+    }
+    #pricing-part .para{
+        margin-bottom: 0;
+    }
+    /* app store part */
+    #app-store img {
+        padding-left: 15px;
+    }
+    /* our team css */
+    #team-part .team-card img {
+        width: 100%;
+        height: 200px;
+    }
+    #team-part .team-card-text {
+        margin: 15px 30px 2px 30px; 
+    }
+    #team-part .para{
+        margin-bottom: 0;
+    }
+    #team-part .team-card-icon {
+        padding-bottom: 15px;
+    }
+    
+    #team-part .team-card i {
+        margin-right: 10px;
+    }
+    /* footer part */
+    footer .container-bg {
+        width: 920px;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px){
+    :root {
+        --primary-color: #f26d7d;
+        --section-margin: 100px;
+    }
+    .heading {
+        margin-bottom: 80px;
+    }
+    /* nav bar */
+    .navbar{
+        margin-top: 0;
+        margin-bottom: -1px;
+        position: initial;
+        background-color: rgba(255, 0, 0, .5);
+    }
+    .navbar ul{
+        text-align: center;
+    }
+    .navbar .nav-item a{
+        margin-right: 17px;
+        padding-left: 10px;
+        color: #191919 !important;
+    }
+    .navbar .button{
+        display: inline-block !important;
+        margin-bottom: 20px;
+        padding: 10px 20px;
+    }
+    .navbar-toggler:focus{
+        box-shadow: 0 0 0 0 !important;
+    }
+    .navbar-light .navbar-toggler{
+        border: none !important;
+        font-weight: bold;
+    }
+    .navbar .nav-item{
+        background-color: aquamarine;
+    }
+    .navbar .nav-icon{
+        display: none;
+    }
+    .navbar .navbar-brand{
+        font-size: 18px;
+        color: #191919 !important;
+    }
+    .navbar .nav-item:hover ::after{
+        display: none;
+    }
+    /* banner part */
+    #banner-part .banner-overlay {
+        padding-top: 0;
+    }
+    #banner-part .banner-top-img {
+        width: 300px;
+        height: 460px;
+    }
+    #banner-part .banner-heading {
+        font-size: 3rem;
+        margin-bottom: 40px;
+    }
+    #banner-part .wave-1 {
+        height: 40px;
+    }
+    #banner-part .wave-2{
+        height: 30px;
+    }
+    #banner-part .banner-prev {
+        left: 0;
+    }
+    #banner-part .banner-next {
+        right: 0;
+    }
+    /* how works */
+    #how-it-works .sub-heading {
+        margin: 20px 0;
+    }
+    #how-it-works .para{
+        width: 192px;
+    }
+    /* how it looks */
+    #how-looks .desktop-img {
+        width: 80%;
+        height: 400px;
+    }
+    #how-looks .looks-abs-img {
+        height: 30px;
+    }
+    /* app storm */
+    #what-appstorm .heading {
+        margin-bottom: 50px;
+    }
+    #what-appstorm .para {
+        width: auto;
+    }
+    #what-appstorm .image{
+        height: 300px;
+    }
+    /* features part */
+    #features-part .img{
+        height: 400px;
+      }
+    #features-part .img-1 {
+        height: 450px;
+    }
+    #features-part .img {
+        height: 460px;
+    }
+    #features-part .img-3 {
+        width: 163px;
+        height: 120px;
+        right: 40px;
+    }
+    #features-part .img-4 {
+        width: 163px;
+        height: 120px;
+        right: 40px;
+    }
+    /* pricing part */
+    #pricing-part .pricing-card h4 {
+        padding: 10px 0;
+    }
+    #pricing-part hr {
+        margin: 5px 0;
+    }
+    #pricing-part .pricing-card .catagory {
+        padding: 20px 0;
+    }
+    #pricing-part .para{
+        margin-bottom: 0;
+    }
+    #pricing-part .pricing-card .button {
+        padding: .4rem 1.5rem;
+        margin-top: 15px;
+    }
+    /* gallery part */
+    #gallery-part img {
+        height: 90%;
+    }
+    #gallery-part .slick-center img{
+        transform: scale(1);
+    }
+    #gallery-part .banner-prev {
+        left: 0;
+    }
+    #gallery-part .banner-next {
+        right: 0;
+    }
+    /* organize part */
+    #organize-part .organize-middle .img-2 {
+        height: 500px;
+    }
+    #organize-part .organize-left {
+        margin-bottom: 30px;
+    }
+    #organize-part .organize-right {
+        margin-bottom: 30px;
+    }
+    /* app store part */
+    #app-store .item{
+        width: 85%;
+        height: 200px;
+      }
+    #app-store img {
+        padding-left: 15px;
+    }
+    /* our team css */
+    #team-part .team-card{
+        margin-bottom: 30px;
+    }
+    #team-part .team-card .image{
+        padding: 30px;
+    }
+    #team-part .team-card img {
+        width: 100%;
+        height: 240px;
+    }
+    #team-part .team-card-text {
+        margin: 15px 30px 2px 30px; 
+    }
+    #team-part .para{
+        margin-bottom: 0;
+    }
+    #team-part .team-card-icon {
+        padding-bottom: 15px;
+    }
+    /* footer part */
+    footer .container-bg {
+        width: 720px;
+    }
+    footer .message {
+        padding-bottom: 80px;
+    }
+}
+@media (min-width: 576px) and (max-width: 767px){
+    :root {
+        --primary-color: #f26d7d;
+        --section-margin: 100px;
+    }
+    .heading {
+        margin-bottom: 80px;
+    }
+    /* nav bar */
+    .navbar{
+        margin-top: 0;
+        margin-bottom: -1px;
+        position: initial;
+        background-color: rgba(255, 0, 0, .5);
+    }
+    .navbar ul{
+        text-align: center;
+    }
+    .navbar .nav-item a{
+        margin-right: 17px;
+        padding-left: 10px;
+        color: #191919 !important;
+    }
+    .navbar .button{
+        display: inline-block !important;
+        margin-bottom: 20px;
+        padding: 10px 20px;
+    }
+    .navbar-toggler:focus{
+        box-shadow: 0 0 0 0 !important;
+    }
+    .navbar-light .navbar-toggler{
+        border: none !important;
+        font-weight: bold;
+    }
+    .navbar .nav-item{
+        background-color: aquamarine;
+    }
+    .navbar .nav-icon{
+        display: none;
+    }
+    .navbar .navbar-brand{
+        font-size: 18px;
+        color: #191919 !important;
+    }
+    .navbar .nav-item:hover ::after{
+        display: none;
+    }
+    /* banner part */
+    #banner-part .banner-overlay {
+        padding-top: 0;
+        height: auto;
+    }
+    #banner-part .banner-top-slider{
+        padding-top: 40px;
+    }
+    #banner-part .banner-top-img {
+        width: 300px;
+        height: 460px;
+    }
+    #banner-part .banner-heading {
+        font-size: 2rem;
+        margin-bottom: 30px;
+        width: 300px;
+    }
+    #banner-part .banner-sub-heading {
+        margin-top: 100px;
+    }
+    #banner-part .wave-1 {
+        height: 40px;
+        display: none;
+    }
+    #banner-part .wave-2{
+        height: 30px;
+        display: none;
+    }
+    #banner-part .banner-prev {
+        left: 0;
+    }
+    #banner-part .banner-next {
+        right: 0;
+    }
+    /* how works */
+    #how-it-works{
+        padding-top: 600px;
+    }
+    #how-it-works .sub-heading {
+        margin: 20px 0;
+    }
+    #how-it-works .para{
+        width: 190px;
+        margin: 0 auto;
+    }
+    /* how it looks */
+    #how-looks .desktop-img {
+        width: 80%;
+        height: 300px;
+    }
+    #how-looks .looks-abs-img {
+        height: 30px;
+    }
+    /* app storm */
+    #what-appstorm .heading {
+        margin-bottom: 50px;
+    }
+    #what-appstorm .para {
+        width: auto;
+    }
+    #what-appstorm .image{
+        height: 300px;
+        margin-top: 40px;
+    }
+    /* features part */
+    #features-part .heading {
+        margin: 40px 0 20px 0;
+    }
+    #features-part .para{
+        margin-bottom: 0;
+    }
+    #features-part .img{
+        height: 400px;
+      }
+    #features-part .img-1 {
+        height: 450px;
+    }
+    #features-part .img {
+        height: 460px;
+    }
+    #features-part .img-3 {
+        width: 163px;
+        height: 120px;
+        right: 40px;
+    }
+    #features-part .img-4 {
+        width: 163px;
+        height: 120px;
+        right: 40px;
+    }
+    /* pricing part */
+    #pricing-part .left, .middle, right{
+        margin-bottom: 40px;
+    }
+    #pricing-part .middle{
+        transform: scale(1);
+    }
+    /* gallery part */
+    #gallery-part .banner-prev {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        left: 0;
+    }
+    #gallery-part .banner-next {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        right: 0;
+    }
+    #gallery-part img {
+        width: 90%;
+        height: 80%;
+        opacity: .7;
+    }
+    #gallery-part .slick-center img{
+        transform: scale(1);
+      }
+    /* organize part */
+    #organize-part .organize-middle .img-2 {
+        height: 500px;
+    }
+    #organize-part .organize-left {
+        margin-bottom: 30px;
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    #organize-part .organize-left .image {
+        margin: 0 auto;
+    }
+    #organize-part .organize-right {
+        margin-bottom: 30px;
+        margin-top: 50px;
+        text-align: center;
+    }
+    #organize-part .organize-middle{
+        display: flex;
+        justify-content: center;
+    }
+    #organize-part .para{
+        width: 400px;
+        margin: 0 auto;
+    }
+    /* app store part */
+    #app-store .item{
+        width: 90%;
+        height: 150px;
+      }
+    #app-store .inner-div{
+        padding: 20px;
+    }
+    #app-store img {
+        padding-left: 15px;
+        width: 190px;
+        height: 42px;
+    }
+    /* our team css */
+    #team-part .team-card{
+        margin-bottom: 30px;
+    }
+    #team-part .team-card img {
+        width: 100%;
+        height: 220px;
+    }
+    #team-part .team-card-text {
+        margin: 15px 30px 2px 30px; 
+    }
+    #team-part .para{
+        margin-bottom: 0;
+    }
+    #team-part .team-card-icon {
+        padding-bottom: 15px;
+    }
+    /* counter part css */
+    #counter-part .counter-bg {
+        padding: var(--section-margin);
+        height: 500px;
+    }
+    #counter-part .counter{
+        margin-bottom: 30px;
+    }
+    #counter-part .counter-heading {
+        margin-bottom: 0;
+    }
+    /* footer part */
+    footer .overlay{
+        height: 920px;
+      }
+    footer .footer{
+        margin-top: 40px;
+    }
+    footer .container-bg {
+        width: 550px;
+    }
+    footer .message {
+        padding-bottom: 80px;
+    }
+}
+@media (min-width: 320px) and (max-width: 575px){
+    :root {
+        --primary-color: #f26d7d;
+        --section-margin: 60px;
+    }
+    .heading {
+        margin-bottom: 60px;
+    }
+    .button{
+        padding: 5px 10px;
+        margin-bottom: 15px;
+    }
+    /* nav bar */
+    .navbar{
+        margin-top: 0;
+        margin-bottom: -1px;
+        position: initial;
+        background-color: rgba(255, 0, 0, .5);
+    }
+    .navbar ul{
+        text-align: center;
+    }
+    .navbar .nav-item a{
+        margin-right: 17px;
+        padding-left: 10px;
+        color: #191919 !important;
+    }
+    .navbar .button{
+        display: inline-block !important;
+        margin-bottom: 20px;
+        padding: 10px;
+    }
+    .navbar-toggler:focus{
+        box-shadow: 0 0 0 0 !important;
+    }
+    .navbar-light .navbar-toggler{
+        border: none !important;
+        font-weight: bold;
+    }
+    .navbar .nav-item{
+        background-color: aquamarine;
+    }
+    .navbar .nav-icon{
+        display: none;
+    }
+    .navbar .navbar-brand{
+        font-size: 18px;
+        color: #191919 !important;
+    }
+    .navbar .nav-item:hover ::after{
+        display: none;
+    }
+    /* banner part */
+    #banner-part .banner-overlay {
+        padding-top: 0;
+        height: auto;
+    }
+    #banner-part .banner-top-slider{
+        padding-top: 0;
+    }
+    #banner-part .banner-top-img {
+        width: 250px;
+        height: 400px;
+    }
+    #banner-part .banner-heading {
+        font-size: 1.5rem;
+        margin-bottom: 20px;
+        width: 280px;
+    }
+    #banner-part .banner-sub-heading {
+        font-size: 1rem;
+        margin-top: 20px;
+    }
+    #banner-part .wave-1 {
+        height: 40px;
+        display: none;
+    }
+    #banner-part .wave-2{
+        height: 30px;
+        display: none;
+    }
+    #banner-part .banner-btn {
+        padding: .51rem 1rem;
+        font-size: 1rem;
+    }
+    #banner-part .banner-prev {
+        left: 0;
+    }
+    #banner-part .banner-next {
+        right: 0;
+    }
+    /* how works */
+    #how-it-works{
+        padding-top: 360px;
+    }
+    #how-it-works .sub-heading {
+        margin: 20px 0;
+    }
+    #how-it-works .para{
+        width: 190px;
+        margin: 0 auto;
+    }
+    /* how it looks */
+    #how-looks .looks-main {
+        padding-top: 0;
+    }
+    #how-looks .para {
+        margin-bottom: 20px;
+    }
+    #how-looks .desktop-img {
+        width: 80%;
+        height: 200px;
+    }
+    #how-looks .looks-abs-img {
+        height: 30px;
+    }
+    /* subscribe-part css */
+    #subscribe-part .overlay {
+        padding: 60px 0;
+        background: rgba(255, 255, 255, .9);
+    }
+    #subscribe-part .button{
+        margin-top: 20px;
+        padding: 8px 22px;
+    }
+    /* app storm */
+    #what-appstorm .heading {
+        margin-bottom: 50px;
+    }
+    #what-appstorm .para {
+        width: auto;
+    }
+    #what-appstorm .image{
+        height: 200px;
+        margin-top: 40px;
+    }
+    /* features part */
+    #features-part .heading {
+        margin: 40px 0 20px 0;
+    }
+    #features-part .para{
+        margin-bottom: 0;
+    }
+    #features-part .img{
+        height: 380px;
+      }
+    #features-part .img-1 {
+        height: 350px;
+    }
+    #features-part .img-3 {
+        display: none;
+    }
+    #features-part .img-4 {
+        display: none;
+    }
+    #features-part .para {
+        width: auto;
+    }
+    /* pricing part */
+    #pricing-part .pricing-card h4 {
+        padding: 10px 0;
+    }
+    #pricing-part .catagory {
+        padding: 20px 0;
+    }
+    #pricing-part .middle .catagory {
+        padding: 20px 0;
+    }
+    #pricing-part .right .catagory {
+        padding: 20px 0;
+    }
+    #pricing-part .left, .middle, .right{
+        margin-bottom: 40px;
+    }
+    #pricing-part .middle{
+        transform: scale(1);
+    }
+    #pricing-part .para{
+        margin-bottom: 10px;
+    }
+    #pricing-part .left .button {
+        margin-bottom: 20px;
+    }
+    #pricing-part .middle .button {
+        margin-bottom: 20px;
+    }
+    #pricing-part .right .button {
+        margin-bottom: 20px;
+    }
+    /* client part css */
+    #client-part .para-review {
+        width: auto;
+        margin-top: 20px;
+    }
+    /* gallery part */
+    #gallery-part .banner-prev {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        left: 0;
+    }
+    #gallery-part .banner-next {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        right: 0;
+    }
+    #gallery-part img {
+        width: 100%;
+        height: 77%;
+    }
+    #gallery-part .slick-center img{
+        transform: scale(1);
+      }
+    /* organize part */
+    #organize-part .organize-middle .img-2 {
+        width: 90%;
+        height: 400px;
+    }
+    #organize-part .organize-middle .img-1 {
+        width: 90%;
+        height: 350px;
+    }
+    #organize-part .organize-left {
+        margin-bottom: 30px;
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    #organize-part .organize-left .image {
+        margin: 0 auto;
+    }
+    #organize-part .organize-right {
+        margin-bottom: 30px;
+        margin-top: 50px;
+        text-align: center;
+    }
+    #organize-part .organize-middle{
+        display: flex;
+        justify-content: center;
+    }
+    #organize-part .para{
+        width: auto;
+        margin: 0 auto;
+    }
+    /* app store part */
+    #app-store .item{
+        width: 90%;
+        height: 110px;
+      }
+    #app-store .inner-div{
+        padding: 10px;
+        height: 55%;
+    }
+    #app-store img {
+        padding-left: 15px;
+        width: 130px;
+        height: 25px;
+    }
+    /* our team css */
+
+    #team-part .team-card{
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    #team-part .team-card img {
+        width: 100%;
+        height: 220px;
+        padding: 10px 30px;
+    }
+    #team-part .team-card-text {
+        margin: 15px 30px 2px 30px; 
+    }
+    #team-part .para{
+        margin-bottom: 0;
+    }
+    #team-part .team-card-icon {
+        padding-bottom: 15px;
+    }
+    /* counter part css */
+    #counter-part .counter-bg {
+        padding: var(--section-margin);
+        height: 500px;
+    }
+    #counter-part .counter{
+        margin-bottom: 30px;
+    }
+    #counter-part .counter-heading {
+        margin-bottom: 0;
+    }
+    /* footer part */
+    footer .overlay{
+        height: 940px;
+      }
+    footer .footer{
+        margin-top: 40px;
+    }
+    footer .container-bg {
+        width: 100%;
+    }
+    footer .message {
+        padding-bottom: 80px;
+    }
+}
